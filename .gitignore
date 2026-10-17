@@ -1,0 +1,12 @@
+# Chinese documentation (kept locally only)
+*.zh-CN.md
+
+# Python
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Flink connector jars (downloaded by scripts/download_connectors.sh)
+flink-lib/*.jar
